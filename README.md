@@ -29,11 +29,7 @@
 
 ---
 
-### `01` · About
-
-<table>
-<tr>
-<td valign="top">
+## About
 
 Olá, sou **Eduardo Fiorini**.
 
@@ -43,19 +39,9 @@ Antes de escrever código, aprendi a pensar em fluxo — e isso mudou como enxer
 
 Por isso, meu trabalho começa antes do código: entender o contexto, encontrar o que trava a operação e entregar soluções que continuem fazendo sentido depois que saem de produção.
 
-</td>
-<td width="52" align="right" valign="bottom">
-
-<img src="./assets/apolo-64.png" width="28" alt=""/><br/>
-<img src="./assets/frajola-64.png" width="28" alt=""/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-### `02` · Stack
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=09090b)
 ![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=E34F26&labelColor=09090b)
@@ -104,7 +90,7 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 ---
 
-### `03` · Activity
+## Activity
 
 <div align="center">
 
