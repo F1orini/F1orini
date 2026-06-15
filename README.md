@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Eduardo Fiorini"/>
+  <img src="./assets/banner.svg?v=2" width="100%" alt="Eduardo Fiorini"/>
 </p>
 
 <p align="center">
