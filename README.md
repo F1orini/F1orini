@@ -107,12 +107,12 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=F1orini&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&bg_color=09090b&rank_icon=percentile" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1orini&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=a1a1aa&bg_color=09090b" alt="Top Languages"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=F1orini&show_icons=true&theme=transparent&hide_border=true&title_color=d4d4d8&icon_color=a1a1aa&text_color=71717a&bg_color=09090b&rank_icon=percentile" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1orini&layout=compact&theme=transparent&hide_border=true&title_color=d4d4d8&text_color=71717a&bg_color=09090b" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=F1orini&theme=dark&hide_border=true&background=09090b&stroke=27272a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=a1a1aa&currStreakNum=22c55e&sideLabels=a1a1aa&dates=71717a" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=F1orini&theme=dark&hide_border=true&background=09090b&stroke=27272a&ring=a1a1aa&fire=71717a&currStreakLabel=a1a1aa&sideNums=71717a&currStreakNum=d4d4d8&sideLabels=71717a&dates=52525b" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1orini&theme=react-dark&hide_border=true&bg_color=09090b&color=22c55e&line=22c55e&point=a1a1aa&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1orini&theme=react-dark&hide_border=true&bg_color=09090b&color=71717a&line=52525b&point=a1a1aa&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -129,6 +129,6 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=F1orini&color=22c55e&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=F1orini&color=71717a&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
 
 </div>
