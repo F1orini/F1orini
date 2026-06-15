@@ -27,7 +27,7 @@ Atuo como desenvolvedor front-end e especialista em T.I na **BJ Group**, cuidand
 
 Antes de escrever código, aprendi a pensar em fluxo — e isso mudou como enxergo a tecnologia. O problema raramente está só na ferramenta; está no fluxo em volta dela.
 
-No dia a dia, transito entre front-end, plataformas, suporte, dados e infraestrutura. Meu background inclui CRMs comerciais, hubs internos de conhecimento, pipelines de dados em lote, produção web em escala, integrações B2B e automação de processos operacionais.
+Meu trabalho cruza interface, plataforma e infraestrutura. Já passei por CRMs comerciais, hubs internos de conhecimento, pipelines de dados em lote, produção web em escala e integrações B2B — contextos diferentes, mas com a mesma pergunta no centro: o que está travando o fluxo?
 
 O trabalho que mais gosto é direto: entender o contexto, diagnosticar o que trava a operação, construir a solução certa e deixar rodando para quem usa no dia a dia.
 
