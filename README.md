@@ -127,8 +127,6 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 <br/>
 
-<sub>`build` stable · `deploy` production</sub>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=F1orini&color=22c55e&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
