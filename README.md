@@ -125,8 +125,6 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 <br/><br/>
 
-**Entendendo o fluxo. Construindo a solução. Entregando em produção.**
-
 <br/>
 
 <sub>`build` stable · `deploy` production</sub>
