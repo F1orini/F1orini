@@ -1,15 +1,28 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Eduardo Fiorini"/>
+</p>
 
-<img src="./assets/banner.svg" width="100%" alt="Eduardo Fiorini"/>
+<p align="center">
+  <a href="https://github.com/F1orini">
+    <img src="https://img.shields.io/badge/GITHUB-09090b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/eduardo-fiorini">
+    <img src="https://img.shields.io/badge/LINKEDIN-09090b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:edu.fiorini.sn@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-09090b?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://f1orini.github.io/EduardoFiorini-Portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-09090b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-f1orini.github.io-09090b?style=for-the-badge&logo=googlechrome&logoColor=22c55e)](https://f1orini.github.io/EduardoFiorini-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-eduardo--fiorini-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eduardo-fiorini)
-[![Gmail](https://img.shields.io/badge/gmail-edu.fiorini.sn-09090b?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:edu.fiorini.sn@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-F1orini-09090b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F1orini)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONT_END-18181b?style=for-the-badge" alt="Front-end"/>
+  <img src="https://img.shields.io/badge/PLATAFORMAS-18181b?style=for-the-badge" alt="Plataformas"/>
+  <img src="https://img.shields.io/badge/DADOS-18181b?style=for-the-badge" alt="Dados"/>
+  <img src="https://img.shields.io/badge/INFRAESTRUTURA-18181b?style=for-the-badge" alt="Infraestrutura"/>
+</p>
 
 <br/>
 
