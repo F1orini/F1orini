@@ -1,26 +1,6 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="56" align="right" valign="middle">
-<img src="./assets/apolo-64.png" width="40" alt=""/>
-</td>
-<td align="center" valign="middle">
-
-### Eduardo Fiorini
-
-<sub>`front-end` · `plataformas` · `dados` · `infraestrutura`</sub>
-
-<br/>
-
-<sub>BJ Group · especialista em T.I</sub>
-
-</td>
-<td width="56" align="left" valign="middle">
-<img src="./assets/frajola-64.png" width="40" alt=""/>
-</td>
-</tr>
-</table>
+<img src="./assets/banner.svg" width="100%" alt="Eduardo Fiorini"/>
 
 <br/>
 
@@ -28,12 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-eduardo--fiorini-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eduardo-fiorini)
 [![Gmail](https://img.shields.io/badge/gmail-edu.fiorini.sn-09090b?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:edu.fiorini.sn@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-F1orini-09090b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F1orini)
-
-<br/>
-
-![status](https://img.shields.io/badge/status-online-22c55e?style=flat-square&labelColor=09090b)
-![focus](https://img.shields.io/badge/focus-production_ready-18181b?style=flat-square&labelColor=09090b&color=a1a1aa)
-![location](https://img.shields.io/badge/location-serra_negra__sp-18181b?style=flat-square&labelColor=09090b&color=a1a1aa)
 
 </div>
 
@@ -110,32 +84,6 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 </tr>
 </table>
 
----
-
-### `03` · Projects
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [EduardoFiorini-Portfolio](https://github.com/F1orini/EduardoFiorini-Portfolio) | Portfólio interativo com mockups, animações e narrativa de projetos reais. | `HTML` `CSS` `JavaScript` `GSAP` |
-| **PrevinityHub** | Hub interno de conhecimento — documentação, processos e chat do time. | `PHP` `SQLite` `UX` |
-| **CRM Comercial · TaxResearch** | Agenda, leads, WhatsApp integrado e painéis de gestão em uma só plataforma. | `JavaScript` `Front-end` `Google Workspace` |
-| **Pipeline de Dados** | Automação Python para ingestão, higienização e exportação em grande escala. | `Python` `Dados` `Automação` |
-| **Monitor-Web · Aplicari** | Painel interno de uptime, SSL e alertas para +100 projetos web em produção. | `JavaScript` `Infra web` `Monitoramento` |
-| **SafeStart · TCC** | Sistema antifurto para motocicletas com autenticação NFC e lógica embarcada. | `C/C++` `NFC` `Embarcados` |
-
----
-
-### `04` · Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-F1orini-09090b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F1orini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--fiorini-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eduardo-fiorini)
-[![Gmail](https://img.shields.io/badge/Gmail-edu.fiorini.sn@gmail.com-09090b?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:edu.fiorini.sn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ver_online-09090b?style=for-the-badge&logo=googlechrome&logoColor=22c55e)](https://f1orini.github.io/EduardoFiorini-Portfolio/)
-
-</div>
-
 <br/>
 
 > O código não termina quando compila. Termina quando quem usa consegue confiar no fluxo, entender o sistema e seguir a operação sem workaround.
@@ -144,7 +92,7 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 ---
 
-### `05` · Activity
+### `03` · Activity
 
 <div align="center">
 
