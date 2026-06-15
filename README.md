@@ -1,13 +1,24 @@
 <div align="center">
 
-<img src="./assets/favicon-apolo-120.png" width="96" height="96" alt="Apolo"/>
-<img src="./assets/favicon-frajola-120.png" width="96" height="96" alt="Frajola"/>
+<table>
+<tr>
+<td width="64" align="right" valign="middle">
+<img src="./assets/apolo-64.png" width="44" alt=""/>
+</td>
+<td align="center" valign="middle">
+
+### Eduardo Fiorini
+
+<sub>desenvolvedor front-end & especialista em T.I · BJ Group</sub>
+
+</td>
+<td width="64" align="left" valign="middle">
+<img src="./assets/frajola-64.png" width="44" alt=""/>
+</td>
+</tr>
+</table>
 
 <br/>
-
-<sub><b>Apolo</b> · ragdoll · olhos azuis &nbsp;·&nbsp; <b>Frajola</b> · tabby · olhos âmbar</sub>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=22c55e)](https://f1orini.github.io/EduardoFiorini-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-fiorini)
@@ -23,21 +34,18 @@
 
 </div>
 
+<p align="center">
+<img src="./assets/apolo-64.png" width="14" alt=""/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="./assets/frajola-64.png" width="14" alt=""/>
+</p>
+
 ---
 
 ## Know About Me
 
 <table>
 <tr>
-<td width="180" align="center" valign="top">
-
-<img src="./assets/apolo-64.png" width="72" alt="Apolo"/>
-<img src="./assets/frajola-64.png" width="72" alt="Frajola"/>
-
-<br/>
-<sub>supervisores de código</sub>
-
-</td>
 <td valign="top">
 
 Olá, sou **Eduardo Fiorini**.
@@ -51,8 +59,20 @@ No dia a dia, transito entre front-end, plataformas, suporte, dados e infraestru
 O trabalho que mais gosto é direto: entender o contexto, diagnosticar o que trava a operação, construir a solução certa e deixar rodando para quem usa no dia a dia.
 
 </td>
+<td width="48" align="right" valign="bottom">
+
+<img src="./assets/apolo-64.png" width="32" alt=""/><br/>
+<img src="./assets/frajola-64.png" width="32" alt=""/>
+
+</td>
 </tr>
 </table>
+
+<p align="center">
+<img src="./assets/frajola-64.png" width="14" alt=""/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="./assets/apolo-64.png" width="14" alt=""/>
+</p>
 
 ---
 
@@ -95,6 +115,12 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 </tr>
 </table>
 
+<p align="center">
+<img src="./assets/apolo-64.png" width="14" alt=""/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="./assets/frajola-64.png" width="14" alt=""/>
+</p>
+
 ---
 
 ## Featured Projects
@@ -107,6 +133,12 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 | **Pipeline de Dados** | Automação Python para ingestão, higienização e exportação em grande escala. | `Python` `Dados` `Automação` |
 | **Monitor-Web · Aplicari** | Painel interno de uptime, SSL e alertas para +100 projetos web em produção. | `JavaScript` `Infra web` `Monitoramento` |
 | **SafeStart · TCC** | Sistema antifurto para motocicletas com autenticação NFC e lógica embarcada. | `C/C++` `NFC` `Embarcados` |
+
+<p align="center">
+<img src="./assets/frajola-64.png" width="14" alt=""/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="./assets/apolo-64.png" width="14" alt=""/>
+</p>
 
 ---
 
@@ -121,9 +153,30 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 </div>
 
+<table>
+<tr>
+<td width="28" valign="top"><img src="./assets/apolo-64.png" width="22" alt=""/></td>
+<td valign="top">
+
 > O código não termina quando compila. Termina quando quem usa consegue confiar no fluxo, entender o sistema e seguir a operação sem workaround.
 
+</td>
+</tr>
+<tr>
+<td width="28" valign="top"><img src="./assets/frajola-64.png" width="22" alt=""/></td>
+<td valign="top">
+
 > Boa automação é silenciosa: resolve o repetitivo, deixa o time com clareza e entrega algo que funciona de verdade em produção.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="./assets/apolo-64.png" width="14" alt=""/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="./assets/frajola-64.png" width="14" alt=""/>
+</p>
 
 ---
 
@@ -144,16 +197,12 @@ Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, 
 
 <div align="center">
 
-<img src="./assets/apolo-64.png" width="64" alt="Apolo"/>
-<img src="./assets/frajola-64.png" width="64" alt="Frajola"/>
+<img src="./assets/apolo-64.png" width="28" alt=""/>
+<img src="./assets/frajola-64.png" width="28" alt=""/>
 
-<br/>
+<br/><br/>
 
 **Entendendo o fluxo. Construindo a solução. Entregando em produção.**
-
-<br/>
-
-<sub>…with apolo and frajola</sub>
 
 <br/><br/>
 
