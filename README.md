@@ -34,9 +34,7 @@ Olá, sou o **Eduardo Fiorini**.
 
 Atuo como desenvolvedor e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
 
-Antes de escrever código, aprendi a pensar em fluxo e isso mudou como enxergo a tecnologia. O problema raramente está só na ferramenta; está no fluxo em volta dela.
-
-Por isso, meu trabalho começa antes do código: entender o contexto, encontrar o que trava a operação e entregar soluções que continuem fazendo sentido depois que saem de produção.
+Desde cedo, a vontade de entender como as coisas funcionavam me levou a criar, adaptar e melhorar. A magia estava em desmontar, entender os funcionamentos, testar, tentar de outro jeito. Essa mentalidade me acompanha até hoje, gerando insights e impulsionando soluções ao longo da minha carreira.
 
 ---
 
