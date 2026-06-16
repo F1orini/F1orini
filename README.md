@@ -54,6 +54,9 @@ Por isso, meu trabalho começa antes do código: entender o contexto, encontrar 
   <img src="https://img.shields.io/badge/SQLite-18181b?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Google_Workspace-18181b?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Apache-18181b?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
