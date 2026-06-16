@@ -34,7 +34,9 @@ Olá, sou o **Eduardo Fiorini**.
 
 Atuo como desenvolvedor e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
 
-Minha forma de encarar a tecnologia vem da curiosidade de ir além da superfície: entender o que sustenta um processo, onde ele trava e o que pode ser melhorado. Na prática, isso significa chegar rápido na causa do problema, atuar na frente que o contexto pede e entregar algo que deixe a operação mais simples, atual e confiável para quem usa.
+Minha forma de encarar a tecnologia vem da curiosidade de ir além da superfície: entender o que sustenta um processo, onde ele trava e o que pode ser melhorado. Hoje isso se traduz em resolver problemas com agilidade, em transitar entre camadas diferentes da tecnologia, e na busca por soluções que simplifiquem a rotina, atualizem o ambiente e realmente agreguem valor.
+
+
 
 ---
 
