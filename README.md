@@ -29,11 +29,11 @@
 
 ---
 
-## About
+## Sobre mim
 
-Olá, sou **Eduardo Fiorini**.
+Olá, sou o **Eduardo Fiorini**.
 
-Atuo como desenvolvedor front-end e especialista em T.I na **BJ Group**, cuidando de web, plataformas, dados e infraestrutura das empresas da holding.
+Atuo como desenvolvedor front-end e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
 
 Antes de escrever código, aprendi a pensar em fluxo — e isso mudou como enxergo a tecnologia. O problema raramente está só na ferramenta; está no fluxo em volta dela.
 
