@@ -72,23 +72,23 @@ Minha forma de encarar a tecnologia vem da curiosidade de ir além da superfíci
 <tr>
 <td width="33%" valign="top">
 
-**Front-end & UX**
+**Desenvolvimento & UX**
 
-Interfaces responsivas, mockups interativos, integração com back-end, GSAP e foco em usabilidade real para quem opera o sistema.
-
-</td>
-<td width="33%" valign="top">
-
-**Plataformas & Dados**
-
-PHP, Python, MySQL, SQLite, pipelines de ingestão e higienização, integrações com clientes e ferramentas internas sob medida.
+Desenvolvo interfaces e experiências responsivas, com integração ao back-end e foco em usabilidade real para quem opera o sistema no dia a dia.
 
 </td>
 <td width="33%" valign="top">
 
-**Infra, Redes & Operações**
+**Gestão de Dados & Plataformas**
 
-Suporte em produção, monitoramento web, redes estruturadas, infraestrutura física, elétrica, hardware e manutenção de ambientes em escala.
+Construo plataformas, pipelines e integrações que organizam informação, conectam processos e entregam ferramentas internas alinhadas ao negócio.
+
+</td>
+<td width="33%" valign="top">
+
+**Infraestrutura & Operações**
+
+Cuido de produção, redes, hardware e monitoramento para manter ambientes estáveis, atuais e confiáveis em escala.
 
 </td>
 </tr>
