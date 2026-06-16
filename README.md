@@ -28,7 +28,7 @@
 
 ---
 
-## Sobre mim
+## Sobre mim -
 
 Olá, sou o **Eduardo Fiorini**.
 
