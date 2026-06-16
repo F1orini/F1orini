@@ -59,6 +59,16 @@ Por isso, meu trabalho começa antes do código: entender o contexto, encontrar 
 
 <br/>
 
+<sub><code>infra · redes · operações</code></sub>
+
+<br/><br/>
+
+![Redes](https://img.shields.io/badge/Redes-18181b?style=flat-square&logo=cisco&logoColor=white&labelColor=09090b)
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura-18181b?style=flat-square&labelColor=09090b)
+![Eletrica](https://img.shields.io/badge/Eletrica-18181b?style=flat-square&labelColor=09090b)
+![Hardware](https://img.shields.io/badge/Hardware-18181b?style=flat-square&labelColor=09090b)
+![Monitoramento](https://img.shields.io/badge/Monitoramento-18181b?style=flat-square&labelColor=09090b)
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -77,9 +87,9 @@ PHP, Python, MySQL, SQLite, pipelines de ingestão e higienização, integraçõ
 </td>
 <td width="33%" valign="top">
 
-**Infra & Operações**
+**Infra, Redes & Operações**
 
-Suporte em produção, Google Workspace, monitoramento web, redes estruturadas, hardware e manutenção de ambientes em escala.
+Suporte em produção, monitoramento web, redes estruturadas, infraestrutura física, elétrica, hardware e manutenção de ambientes em escala.
 
 </td>
 </tr>
