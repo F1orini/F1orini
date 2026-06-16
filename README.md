@@ -34,7 +34,7 @@ Olá, sou o **Eduardo Fiorini**.
 
 Atuo como desenvolvedor e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
 
-Desde cedo, a vontade de entender como as coisas funcionavam me levou a criar, adaptar e melhorar. A magia estava em desmontar, entender os funcionamentos, testar, tentar de outro jeito. Essa mentalidade me acompanha até hoje, gerando insights e impulsionando soluções ao longo da minha carreira.
+Minha forma de encarar a tecnologia vem da curiosidade de ir além da superfície: entender o que sustenta um processo, onde ele trava e o que pode ser melhorado. Hoje isso se traduz em resolver com agilidade, transitar entre camadas diferentes sem perder o fio da meada e buscar soluções que organizem o trabalho, modernizem o que está defasado e gerem impacto concreto para quem depende do sistema.
 
 ---
 
