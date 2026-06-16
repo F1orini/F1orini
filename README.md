@@ -28,7 +28,7 @@
 
 ---
 
-## Sobre mim -
+## - Sobre mim -
 
 Olá, sou o **Eduardo Fiorini**.
 
@@ -43,6 +43,8 @@ Por isso, meu trabalho começa antes do código: entender o contexto, encontrar 
 ## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=09090b)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=09090b)
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=09090b)
 ![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=E34F26&labelColor=09090b)
 ![CSS3](https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css3&logoColor=1572B6&labelColor=09090b)
 ![PHP](https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=777BB4&labelColor=09090b)
