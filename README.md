@@ -34,7 +34,7 @@ Olá, sou o **Eduardo Fiorini**.
 
 Atuo como desenvolvedor e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
 
-Antes de escrever código, aprendi a pensar em fluxo — e isso mudou como enxergo a tecnologia. O problema raramente está só na ferramenta; está no fluxo em volta dela.
+Antes de escrever código, aprendi a pensar em fluxo e isso mudou como enxergo a tecnologia. O problema raramente está só na ferramenta; está no fluxo em volta dela.
 
 Por isso, meu trabalho começa antes do código: entender o contexto, encontrar o que trava a operação e entregar soluções que continuem fazendo sentido depois que saem de produção.
 
@@ -53,6 +53,8 @@ Por isso, meu trabalho começa antes do código: entender o contexto, encontrar 
 ![SQLite](https://img.shields.io/badge/SQLite-18181b?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=09090b)
 ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032&labelColor=09090b)
 ![Linux](https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=FCC624&labelColor=09090b)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED&labelColor=09090b)
+![Apache](https://img.shields.io/badge/Apache-18181b?style=flat-square&logo=apache&logoColor=white&labelColor=09090b)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-18181b?style=flat-square&logo=google&logoColor=4285F4&labelColor=09090b)
 
 <br/>
