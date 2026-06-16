@@ -115,7 +115,7 @@ Suporte em produção, monitoramento web, redes estruturadas, infraestrutura fí
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F1orini&days=90&theme=react-dark&hide_border=true&bg_color=09090b&color=22c55e&line=22c55e&point=a1a1aa&area=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F1orini&days=40&theme=react-dark&hide_border=true&bg_color=09090b&color=22c55e&line=22c55e&point=a1a1aa&area=true&grid=false" alt="Contribution Graph"/>
 
 </div>
 
@@ -123,20 +123,16 @@ Suporte em produção, monitoramento web, redes estruturadas, infraestrutura fí
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%"><img src="./assets/apolo-64.png" width="64" alt=""/></td>
-    <td align="right" width="50%"><img src="./assets/frajola-64.png" width="64" alt=""/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://komarev.com/ghpvc/?username=F1orini&color=22c55e&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><img src="./assets/frajola-64.png" width="64" alt=""/></td>
-    <td align="right"><img src="./assets/apolo-64.png" width="64" alt=""/></td>
-  </tr>
-</table>
+<img align="left" width="64" src="./assets/apolo-64.png" alt=""/>
+<img align="right" width="64" src="./assets/frajola-64.png" alt=""/>
+
+<br clear="both"/>
+
+<img src="https://komarev.com/ghpvc/?username=F1orini&color=22c55e&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
+
+<br clear="both"/>
+
+<img align="left" width="64" src="./assets/frajola-64.png" alt=""/>
+<img align="right" width="64" src="./assets/apolo-64.png" alt=""/>
 
 </div>
