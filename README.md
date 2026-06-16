@@ -123,14 +123,10 @@ Suporte em produção, monitoramento web, redes estruturadas, infraestrutura fí
 
 <div align="center">
 
-<img src="./assets/apolo-64.png" width="48" alt=""/>
-<img src="./assets/frajola-64.png" width="48" alt=""/>
-
-<br/><br/>
+<img src="./assets/apolo-64.png" width="64" alt=""/>
+<img src="./assets/frajola-64.png" width="64" alt=""/>
 
 <br/>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=F1orini&color=22c55e&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
 
