@@ -123,8 +123,8 @@ Suporte em produção, monitoramento web, redes estruturadas, infraestrutura fí
 
 <div align="center">
 
-<img src="./assets/apolo-64.png" width="24" alt=""/>
-<img src="./assets/frajola-64.png" width="24" alt=""/>
+<img src="./assets/apolo-64.png" width="48" alt=""/>
+<img src="./assets/frajola-64.png" width="48" alt=""/>
 
 <br/><br/>
 
