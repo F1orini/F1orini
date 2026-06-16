@@ -42,33 +42,29 @@ Por isso, meu trabalho começa antes do código: entender o contexto, encontrar 
 
 ## Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=09090b)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=09090b)
-![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=09090b)
-![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=E34F26&labelColor=09090b)
-![CSS3](https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css&logoColor=white&labelColor=09090b)
-![PHP](https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=777BB4&labelColor=09090b)
-![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=3776AB&labelColor=09090b)
-![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=white&labelColor=09090b)
-![SQLite](https://img.shields.io/badge/SQLite-18181b?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=09090b)
-![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032&labelColor=09090b)
-![Linux](https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=FCC624&labelColor=09090b)
-![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED&labelColor=09090b)
-![Apache](https://img.shields.io/badge/Apache-18181b?style=flat-square&logo=apache&logoColor=white&labelColor=09090b)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-18181b?style=flat-square&logo=google&logoColor=4285F4&labelColor=09090b)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/PHP-18181b?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-18181b?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-18181b?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
+  <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Apache-18181b?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Redes-18181b?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
+  <img src="https://img.shields.io/badge/Infraestrutura-18181b?style=for-the-badge&logo=proxmox&logoColor=white" alt="Infraestrutura"/>
+  <img src="https://img.shields.io/badge/Eletrica-18181b?style=for-the-badge&logo=siemens&logoColor=white" alt="Eletrica"/>
+  <img src="https://img.shields.io/badge/Hardware-18181b?style=for-the-badge&logo=intel&logoColor=white" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/Monitoramento-18181b?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoramento"/>
+</p>
 
 <br/>
-
-<sub><code>infra · redes · operações</code></sub>
-
-<br/><br/>
-
-![Redes](https://img.shields.io/badge/Redes-18181b?style=flat-square&logo=cisco&logoColor=white&labelColor=09090b)
-![Infraestrutura](https://img.shields.io/badge/Infraestrutura-18181b?style=flat-square&labelColor=09090b)
-![Eletrica](https://img.shields.io/badge/Eletrica-18181b?style=flat-square&labelColor=09090b)
-![Hardware](https://img.shields.io/badge/Hardware-18181b?style=flat-square&labelColor=09090b)
-![Monitoramento](https://img.shields.io/badge/Monitoramento-18181b?style=flat-square&labelColor=09090b)
-
 <table>
 <tr>
 <td width="33%" valign="top">
