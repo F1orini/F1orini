@@ -18,11 +18,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/DESENVOLVEDOR-18181b?style=for-the-badge" alt="Desenvolvedor"/>
   <img src="https://img.shields.io/badge/GESTAO_DE_DADOS-18181b?style=for-the-badge" alt="Gestão de dados"/>
   <img src="https://img.shields.io/badge/INFRAESTRUTURA-18181b?style=for-the-badge" alt="Infraestrutura"/>
-</p>
+</p> -->
 
 <br/>
 
