@@ -19,9 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONT_END-18181b?style=for-the-badge" alt="Front-end"/>
-  <img src="https://img.shields.io/badge/PLATAFORMAS-18181b?style=for-the-badge" alt="Plataformas"/>
-  <img src="https://img.shields.io/badge/DADOS-18181b?style=for-the-badge" alt="Dados"/>
+  <img src="https://img.shields.io/badge/DESENVOLVEDOR-18181b?style=for-the-badge" alt="Desenvolvedor"/>
+  <img src="https://img.shields.io/badge/GESTAO_DE_DADOS-18181b?style=for-the-badge" alt="Gestão de dados"/>
   <img src="https://img.shields.io/badge/INFRAESTRUTURA-18181b?style=for-the-badge" alt="Infraestrutura"/>
 </p>
 
@@ -33,7 +32,7 @@
 
 Olá, sou o **Eduardo Fiorini**.
 
-Atuo como desenvolvedor front-end e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
+Atuo como desenvolvedor e especialista em T.I na **BJ Group**, em um contexto onde tecnologia, processo e operação precisam conversar o tempo todo.
 
 Antes de escrever código, aprendi a pensar em fluxo — e isso mudou como enxergo a tecnologia. O problema raramente está só na ferramenta; está no fluxo em volta dela.
 
