@@ -130,9 +130,4 @@ Suporte em produção, monitoramento web, redes estruturadas, infraestrutura fí
 
 <img src="https://komarev.com/ghpvc/?username=F1orini&color=22c55e&style=flat-square&label=visitas&labelColor=09090b" alt="Profile views"/>
 
-<br clear="both"/>
-
-<img align="left" width="64" src="./assets/frajola-64.png" alt=""/>
-<img align="right" width="64" src="./assets/apolo-64.png" alt=""/>
-
 </div>
