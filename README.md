@@ -105,10 +105,18 @@ Suporte em produção, monitoramento web, redes estruturadas, infraestrutura fí
 ## Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=F1orini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F1orini&layout=compact&langs_count=6&theme=tokyonight"/>
-  <br/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=F1orini&theme=tokyonight"/>
+
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=F1orini&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=a1a1aa&bg_color=09090b&rank_icon=percentile&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F1orini&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=22c55e&text_color=a1a1aa&bg_color=09090b" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=F1orini&theme=dark&hide_border=true&background=09090b&stroke=27272a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=a1a1aa&currStreakNum=22c55e&sideLabels=a1a1aa&dates=71717a" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F1orini&theme=react-dark&hide_border=true&bg_color=09090b&color=22c55e&line=22c55e&point=a1a1aa&area=true" alt="Contribution Graph"/>
+
 </div>
 
 ---
